@@ -1,5 +1,4 @@
 ## Assignment 3 - Banner Page
-#### Due: ~~01-29-2020 (Wednesday @ 3:30 p.m.)~~
 
 ### Overview
 
