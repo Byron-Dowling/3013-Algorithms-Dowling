@@ -4,3 +4,4 @@
 #### Website: https://github.com/Byron-Dowling/3013-Algorithms-Dowling
 #### Image:
 ![Image of self](20170326_093506_HDR.jpg)
+
