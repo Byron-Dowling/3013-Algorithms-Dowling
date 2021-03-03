@@ -23,3 +23,4 @@ This project is about loading a singly linked list with dictionary words, then t
 - Hit Shift - Z to terminate the program.
 
 Example Input
+![image of SS1](https://github.com/Byron-Dowling/3013-Algorithms-Dowling/blob/main/Assignments/P02/3013%20P02%20SS1.png?raw=true)
