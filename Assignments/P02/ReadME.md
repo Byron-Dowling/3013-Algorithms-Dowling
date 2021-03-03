@@ -22,5 +22,12 @@ This project is about loading a singly linked list with dictionary words, then t
 - If you mistype a letter, simply hit the backspace and the terminal will recognize and revert back to the previous iteration
 - Hit Shift - Z to terminate the program.
 
-Example Input
+### Example Input
+
 ![image of SS1](https://github.com/Byron-Dowling/3013-Algorithms-Dowling/blob/main/Assignments/P02/3013%20P02%20SS1.png?raw=true)
+
+![image of SS2](https://github.com/Byron-Dowling/3013-Algorithms-Dowling/blob/main/Assignments/P02/3013%20P02%20SS2.png?raw=true)
+
+![image of SS3](https://github.com/Byron-Dowling/3013-Algorithms-Dowling/blob/main/Assignments/P02/3013%20P02%20SS3.png?raw=true)
+
+![image of SS4](https://github.com/Byron-Dowling/3013-Algorithms-Dowling/blob/main/Assignments/P02/3013%20P02%20SS4.png?raw=true)
