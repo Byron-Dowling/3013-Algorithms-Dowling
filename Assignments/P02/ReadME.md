@@ -10,8 +10,8 @@ This project is about loading a singly linked list with dictionary words, then t
 | :---: | ----------------------- | -------------------------------------------------- |
 |   1   | read_dict.cpp           | Main driver of my project                          |
 |   2   | Timer.hpp               | HPP File with Class Definition for Timing          |
-|   2   | mygetch.hpp             | Getching Implementation/Helper file                |
-|   3   | Words.txt               | text file of dictionary words                      |
+|   3   | mygetch.hpp             | Getching Implementation/Helper file                |
+|   4   | Words.txt               | text file of dictionary words                      |
 
 ### Instructions
 
