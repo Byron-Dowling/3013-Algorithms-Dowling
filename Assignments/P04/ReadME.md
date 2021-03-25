@@ -24,10 +24,10 @@ This project is about loading a Prefix Tree with dictionary words, then timing h
 
 ### Example Input
 
-![image of SS1](https://github.com/Byron-Dowling/3013-Algorithms-Dowling/blob/main/Assignments/P02/3013%20P02%20SS1.png?raw=true)
+![image of SS1](https://github.com/Byron-Dowling/3013-Algorithms-Dowling/blob/main/Assignments/P04/PrefixTree%20Getch%20%234.PNG?raw=true)
 
-![image of SS2](https://github.com/Byron-Dowling/3013-Algorithms-Dowling/blob/main/Assignments/P02/3013%20P02%20SS2.png?raw=true)
+![image of SS2](https://github.com/Byron-Dowling/3013-Algorithms-Dowling/blob/main/Assignments/P04/PrefixTree%20Getch%20%232.PNG?raw=true)
 
-![image of SS3](https://github.com/Byron-Dowling/3013-Algorithms-Dowling/blob/main/Assignments/P02/3013%20P02%20SS3.png?raw=true)
+![image of SS3](https://github.com/Byron-Dowling/3013-Algorithms-Dowling/blob/main/Assignments/P04/PrefixTree%20Getch%20%233.PNG?raw=true)
 
-![image of SS4](https://github.com/Byron-Dowling/3013-Algorithms-Dowling/blob/main/Assignments/P02/3013%20P02%20SS4.png?raw=true)
+![image of SS4](https://github.com/Byron-Dowling/3013-Algorithms-Dowling/blob/main/Assignments/P04/PrefixTree%20Getch%20%231.PNG?raw=true)
