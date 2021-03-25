@@ -1,4 +1,4 @@
-## Program 2 - P02 - Processing in Linear Time
+## Program 4 - P04 - Processing in Trie Tree Time
 ### Byron Dowling
 ### Description:
 
